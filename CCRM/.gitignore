@@ -1,0 +1,15 @@
+# Java class files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Build directory
+bin/
+
+# OS generated files
+.DS_Store
+
+# Logs and temp files
+*.log
+*.tmp
